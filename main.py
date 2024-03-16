@@ -1,3 +1,4 @@
+from openai import OpenAI
 from utils.openai_lib import client
 from time import time
 
