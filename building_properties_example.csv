@@ -1,0 +1,4 @@
+Building ID,Building Name,Location,Address,Year Built,Number of Floors,Total Square Feet,Occupancy Type,Current Occupancy (%),Energy Rating,Parking Spaces,Amenities
+1,Sky Tower,Downtown City,123 City St.,1999,50,500000,Mixed-use,90,A,150,"Gym, Pool, Conference Rooms"
+2,Ocean View,Beachside,456 Ocean Blvd.,2005,20,200000,Residential,95,B,50,"Pool, Private Beach Access"
+3,Mountain Hideaway,Mountain Range,789 Mountain Rd.,2010,5,50000,Commercial,80,C,20,"Café, Rooftop Terrace"
